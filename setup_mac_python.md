@@ -1,7 +1,10 @@
 # The right way to install Python on a Mac
 
+My personal repo created with guide from
+**Raphaël Hoogvliets**:
 >https://medium.com/marvelous-mlops/the-rightway-to-install-python-on-a-mac-f3146d9d9a32
 
+In case the link is not available:
 ## 1. Install XCode Command Line Tools
 
 The first step is to install the command line tools for mac. This includes all kinds of useful stuff for developers, such as a C compiler. You can also use the app store to install it, but you’re a developer now. So we’ll be doing things from the command line in this tutorial.
